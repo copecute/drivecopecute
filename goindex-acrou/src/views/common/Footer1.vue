@@ -6,7 +6,7 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://www.minhgiangpc.com"
+              href="https://minhgiangpc.com"
             >MinhGiangPC</a>
             <span class="tag is-light">
               copecute &nbsp;
